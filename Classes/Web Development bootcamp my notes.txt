@@ -1,0 +1,43 @@
+								HTML & CSS
+
+			Day # 1
+- Frontend refers to the process of creating the user interface
+- basically three languages html,css and javascript
+- Explore Extension (Auto Rename tag, Live Server(you don't have to refresh it again and again))
+
+			Day # 2
+- css (cascading style sheet) this is like a language through which we color our different elements in a website
+- linking of css (inline css, internal css, external css)
+- Selectors, selectors are used for select elements or tags to style, types of selectors (Tag selector, id selector and class selector)
+- use of box model by going to inspect and check it out in the style tab in the bottom
+- all elements are the two types like block level and inline level , Block level elements are those elements that takes full width of the screen and inline level elements are take only the width of its content
+- layout (Flexbox and Grid) these are used for creating layouts
+- Pseudo Selectors (all those properties that need a single colon ":" are called Pseudo class for example {:hover}, and all those properties that need double colon "::" are called Pseudo Elements for example {::after,::before})
+
+- Animations (rotate animation on image by using @keyframes rotate {0%,100%} )
+- Media Queries (@media screen and only(max-width:200px){background-color:blue;})
+
+
+			 Day # 3
+	JavaScript
+- Javascript is used for add functionality in website
+- Javascript linking(There are two ways of linking javascript, internal by script tag, and other is create a file of javascript.js and link it in your code by script tag with an attribute of src) best one is external script
+- in javascript your errors, warnings will be shown in console tab in browser by some using some console functions like (console.log("to print something"), console.error("to show error in console in browser"), console.warn("to show warning
+  in the browser))
+- variables , there are three types of variables in Javascript (var, let, and const) the difference in between these three is (Const variable can't be redeclare once it is declare in program, while var can be changed mean can be 
+   redefined once it defined in program like var num=3; num=23; , let is also can be redefine in program once it is define in program) the difference in between let and var varibales is "scope" var variable is global scope and
+   let variable is block scope and another difference is let variable is used in modren javascript
+
+- Datatypes in Javascript while we know that there are no datatypes in javascript but some are these like when you initilaze a variable with a string this will be string variable if you initilize a variable with a number it will be 
+  considered int variable while if you initialize a variable with a float value it will be considered a float variable , so if we assign a ture false value to a variable it will be considered boolean variable. null datatype where 
+  there is no data in the variable
+- Array and object are mostly used in reactjs , while objects are the key value pair, we can also used array inside object, if you want to print specific thing in object you have to write like console.log(objectname.age) this will
+  only print age from the object
+
+- Operators, + , -, *, /, %
+- Conditional statments (if , if else, if if else else)
+- Functions is the set of instruction that is used to perform specific tasks, to define function in javascript you have to write function keyword at the start and than name and parameters if passes so, if you want to print the function
+  values are want to run the function you have to call the function after declare, function is the set of code that you can call whenever you need in code.
+- Loops are used for repeat the block of code, (for loop, while loop)
+- string and arrays, String(Tolower case() , ToUpercase(), length, includes('p'),string.replace("1st string","to be replaced"))
+- Arrays(array methods(array.pop(), array.push(), array[]='array2', array[0], array.length))

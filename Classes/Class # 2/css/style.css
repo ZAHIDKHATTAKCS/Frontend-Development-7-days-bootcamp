@@ -1,0 +1,145 @@
+/* External css */
+
+/* Element selector */
+h1 {
+  color: red;
+}
+
+/* Id selector */
+#zahid {
+  color: blue;
+}
+
+/* class selector */
+.khattak {
+  color: green;
+}
+
+/* use of border dotted dashed solid */
+#text {
+  color: green;
+  border: 2px solid black;
+  background-color: yellow;
+
+  /* use of fonts */
+  font-family: "Courier New";
+  text-align: center;
+}
+
+/* use of box model */
+.heading {
+  border: 2px solid green;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* use of box model  */
+#subscribe {
+  background-color: red;
+  padding: 20px 30px;
+  border: none;
+  color: white;
+  font-size: 20px;
+  border-radius: 60px;
+}
+
+/* psoudo selector , psoudo class*/
+#subscribe:hover {
+  background-color: white;
+  color: red;
+  border: 2px solid black;
+}
+
+/* all the properties that is must be used with the : colon are known as  psoudo classes and all those who needs doble colon :: are called elements
+      here this is psudo elemnt
+*/
+#subscribe::after {
+  content: "hello";
+}
+
+/* use of display property */
+#computer {
+  /* display block will take all the width of the screen when we set as 
+        block while inline so it will take only the width of it's content
+    */
+  display: block;
+}
+
+.box {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+
+#main {
+  border: 2px solid black;
+  height: 500px;
+  display: flex;
+  /* There are three four properties in justify-content
+     justify-content:flex-start,center,flex-end,space-between,space-around,space-evenly
+  */
+  justify-content: center;
+
+  /* There are three four properties of align-items also
+     align-items: flex-start, center, flex-end
+  */
+  align-items: center;
+}
+
+
+.box3 {
+  background-color: green;
+}
+
+/* use of grid properties */
+.grid {
+  margin-top: 4px;
+  border: 2px solid black;
+  display: grid;
+  grid-template-columns: 20px 20px 20px;
+  grid-template-rows: 20px 20px 20px;
+  gap: 12px;
+}
+
+
+.services {
+  border: 2px solid red;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+
+.boxes {
+  color: green;
+  font-size: 50px;
+  margin-top: 10px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-image: url(../img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#react {
+  animation: rotate 5s infinite ease-in-out;
+  margin-top: 50px;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+    background-color: red;
+  }
+
+  100% {
+    transform: rotate(360deg);
+    background-color: green;
+  }
+}
