@@ -16,8 +16,8 @@ The topics I learned in this
 ![HTML image](https://img.icons8.com/?size=256&id=20909&format=png)
 
 - Rules of Bootcamp , Rules of Certifications
-- Introduction of Teachers, Host, and Sponsers
-- Introduction of HTML, CSS and JavaScript theroy 
+- Introduction of Teacher, Host, and Sponsers
+- Introduction of HTML, CSS and JavaScript theory 
 - Some Extensions of vs code (Auto Rename Tag, Live Server)
 
 # Day 2 CSS (Cascading Style Sheet)
