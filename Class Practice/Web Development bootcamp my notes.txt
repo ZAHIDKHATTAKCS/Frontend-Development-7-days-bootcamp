@@ -41,3 +41,50 @@
 - Loops are used for repeat the block of code, (for loop, while loop)
 - string and arrays, String(Tolower case() , ToUpercase(), length, includes('p'),string.replace("1st string","to be replaced"))
 - Arrays(array methods(array.pop(), array.push(), array[]='array2', array[0], array.length))
+
+			Day # 4
+- DOM (Document object Model) Manipulation, Dom is like when we visit a page dom make a tree of website like that we see it in inspect and than element tab, why we do dom manipulation, there are different methods in DOM (Get ElementById(), Get elementByClassName(), 
+  GetEelementByTagName('p'), .innerText = 'something' to change the content of the inner HTML, color the content through JavaScript, Document.CreateElement('p')-> to create element, document.ContentText='This is paragraph' ->
+  add content to the element that is recently created, appenedchild(p) -> appenedchild is used to insert the element into the html document that you created recently)
+- Input in JavaScript ()
+- Event Listeners -> Event listeners are basically the set of code that execute based on some events like click on button, hover on a content , scrooling of site is also eventlisteners ()
+- Set interval -> Set interval is the function used to repeatedly run a block of code after specific intervals  & set timeout is the function to run a block of code after some delay like when specific amount of time spend than run it
+- Async functions -> is the function , where we can say if a function take some time and impact other execution this will be time consuming, so for that we using asynchronous function which starts run and also 
+  continue the execution of the remains code by adding await keyword.
+- Arrow function new way of define functions
+- Promise -> are a bit confusing and it is in the advance JavaScript
+- Fetch API(Application programming interface) the service that used to take data from the external resources like weather , another city data , api creators are the backend developers
+- local storage ->  ( The localStorage object allows you to save key/value pairs in the browser, The localStorage object stores data with no expiration date, different operations ->
+  localStorage.setItem("loginInfo","Zahid");, console.log(localStorage.getItem("loginInfo")),localStorage.removeItem("loginInfo"); )
+- Array advance ()
+
+	
+			 Day # 5
+- React Js -> why any Framework, website will not reload when you used framework. Types of frameworks(Reactjs , angularjs, viewjs)
+- Pre Requisite of ReactJs (Nodejs) , Nodejs is used for backend but it is also used for frontend also
+- Creating Project about news when user click on button he will be redirect to the news, to create project of react just simple create a folder and than go to path and write cmd there and hit enter after that cmd will be opened than simply just 
+  write the command " npm create vite@latest " and hit enter than press "Y" and than "enter your project name" after that select your scripting language like "react" and hit enter and than select "JavaScript" 
+  , npm is actually package manager ,
+- Folder Structure (Index.html is the main file, public folder is the folder in which store the files that are publicaly available for public).
+- How to run React Project (to run project we have to install packages in order to install packages we have to go to main directory and go to path and again open cmd and run command "npm install" this will create packages of react and now you can run your project by
+  "npm run div" this command is used to run your React Project)
+- JSX (JavaScript XML,)
+- Components (Class base component , function base component) , we have to create only once a component and than we can use it multiple times
+- Pops (Title(heading) , description(paragraph) , cover(img))
+- Hooks helps us to use react components in our projects (useState(is used for declare a variable and used for not reload the page), useEffect(the block of code run based on some condition while it will run once must, ))
+- onclick
+- React is the single page application mean page will not be reload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
