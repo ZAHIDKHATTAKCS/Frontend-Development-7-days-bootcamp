@@ -10,10 +10,7 @@ The topics I learned in this
 
 # <p align="center" style="margin-bottom:0px;">Day 1 HTML (Hyper Text Markup Language)</p>
 
-<div style="text-align:right;">
-<img src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px">
-
-</div>
+<img align="right" src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px">
 
 - Rules of BootCamp , Rules of Certifications
 - Introduction of Teachers, Host, and Sponsers
@@ -65,16 +62,18 @@ The topics I learned in this
 
 - Theory of JavaScript frameworks like ( React and TypeScript )
 - Pre Requisite of ReactJs ( install Node.js )
-- <p align="center" style="font-weight:bold; color:lightblue; font-size:20px; margin-bottom:0px;"> Creating Project</p>
-` 1. npm create vite@latest ` <br>
+
+# Creating Project
+
+`1. npm create vite@latest` <br>
 `2. Provide Project Name ("khattak-resources")`<br>
 `3. Select Framework like React`<br>
 `4. Select language like JavaScript`
 
-- <p align="center" style="font-weight:bold; color:lightblue; font-size:20px; margin-bottom:0px;">Run Reactjs Project</p>
+# Run Reactjs Project
+
 `"npm install" (This will install the project's necessary packages)`<br>
 `"npm run dev" (will allow project to run and offer a port for it)`
-
 
 - JSX ( JavaScript XML )
 - Components ( Class Base Components ( Old Method ) , Function Base Components ), Reactjs components are collections of code that we write in order to reuse them repeatedly, In Reactjs, components are most important
