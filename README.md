@@ -13,15 +13,17 @@ The topics I learned in this
 <img align="right" src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px">
 
 - Rules of BootCamp , Rules of Certifications
+
 - Introduction of Teachers, Host, and Sponsers
 - Introduction of HTML, CSS and JavaScript theory
 - Some Extensions of vs code (Auto Rename Tag, Live Server)
 
 # <p align="center" style="margin-bottom:0px;"> Day 2 CSS (Cascading Style Sheet) </p>
 
-<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="130px" style="float:right">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="130px" align="right">
 
 - Selectors (Element Selector, Id Selector, Class Selector)
+
 - Box Model (Border, Padding, Margin)
 - Layouts(Flexbox, Grid)
 - Pseudo-classes represents by single colon ( : hover ) and Pseudo-Elements represents by double colon ( : :before : :after )
@@ -30,9 +32,10 @@ The topics I learned in this
 
 # <p align="center" style="margin-bottom:0px;"> Day 3 JavaScript </p>
 
-<img src="https://img.icons8.com/?size=256&id=108784&format=png" width="100px" style="float:right">
+<img src="https://img.icons8.com/?size=256&id=108784&format=png" width="100px" align="right">
 
 - JavaScript linking
+
 - Variables ( Var , let , const )
 - Array and Objects
 - Operators ( + , - , \* , / , % )
@@ -44,12 +47,17 @@ The topics I learned in this
 
 # <p align="center" style="margin-bottom:0px;"> Day 4 JavaScript </p>
 
-<img src="https://img.icons8.com/?size=256&id=108784&format=png" width="100px" style="float:right">
+<img src="https://img.icons8.com/?size=256&id=108784&format=png" width="100px" align="right">
 
-- DOM manipulation ( document.getElementById ("id") , document.getElementByClassName ("class") , document.getElementByTagName("tag") , document.createElement("paragraph") , document.innerText="this is paragraph" , document.appendChild('paragraph') )
+- DOM manipulation ( document.getElementById ("id") ,
+ document.getElementByClassName ("class") , document.getElementByTagName("tag") , document.createElement("paragraph") , document.innerText="this is paragraph" , document.appendChild('paragraph') )
+
 - Input with JavaScript (Take input from the users)
+
 - Event Listeners
+
 - setInterval (The function that is used to repeatedly run a block of code after specific time of intervals)
+
 - setTimeout (The function that run only once after specific amount of time)
 - Async Function (to avoid the time delay and run the next block of code)
 - Arrow Function (New and Advance way of defining Functions)
@@ -58,9 +66,10 @@ The topics I learned in this
 
 # <p align="center" style="margin-bottom:0px;"> Day 5 ReactJs </p>
 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="100px" style="float:right">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="100px" align="right">
 
 - Theory of JavaScript frameworks like ( React and TypeScript )
+
 - Pre Requisite of ReactJs ( install Node.js )
 
 # Creating Project
@@ -85,6 +94,7 @@ The topics I learned in this
 # Important
 
 - Teacher [Hussain Ahmad](https://www.linkedin.com/in/hussnain-ahmad/)
+
 - Host [Alishba Anjum](https://www.linkedin.com/in/alishba-anjum-8ba06a28b/)
 - Organizer [Uzair Sarfraz](https://www.linkedin.com/in/uzair-sarfraz/)
 - Organizer [Khubaib Ahsan](https://www.linkedin.com/in/khubaib-ahsan-39a160264/)
