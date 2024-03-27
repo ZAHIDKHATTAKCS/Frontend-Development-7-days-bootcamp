@@ -10,7 +10,7 @@ The topics I learned in this
 
 # <p align="center" style="margin-bottom:0px;">Day 1 HTML (Hyper Text Markup Language)</p>
 
-<div style="float:right;">
+<div style="text-align:right;">
 <img src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px">
 
 </div>
@@ -66,23 +66,15 @@ The topics I learned in this
 - Theory of JavaScript frameworks like ( React and TypeScript )
 - Pre Requisite of ReactJs ( install Node.js )
 - <p align="center" style="font-weight:bold; color:lightblue; font-size:20px; margin-bottom:0px;"> Creating Project</p>
-  <code style="display:flex; justify-content:center; margin-bottom:30px;">
-  <ol>
-  <li> npm create vite@latest</li>
-  <li> Provide Project Name ("khattak-resources")</li>
-  <li> Select Framework like <mark>React</mark></li>
-  <li> Select language like <mark>JavaScript</mark></li>
-  </ol>
-  </code>
+` 1. npm create vite@latest ` <br>
+`2. Provide Project Name ("khattak-resources")`<br>
+`3. Select Framework like React`<br>
+`4. Select language like JavaScript`
 
 - <p align="center" style="font-weight:bold; color:lightblue; font-size:20px; margin-bottom:0px;">Run Reactjs Project</p>
-  <code style="display:flex; justify-content:center; margin-bottom:20px;">
-  <ol>
-  <li> "npm install" (This will install the project's necessary packages)</li>
-  <li> "npm run dev" (will allow project to run and offer a port for it)</li>
+`"npm install" (This will install the project's necessary packages)`<br>
+`"npm run dev" (will allow project to run and offer a port for it)`
 
-</ol>
-</code>
 
 - JSX ( JavaScript XML )
 - Components ( Class Base Components ( Old Method ) , Function Base Components ), Reactjs components are collections of code that we write in order to reuse them repeatedly, In Reactjs, components are most important
