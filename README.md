@@ -10,7 +10,7 @@ The topics I learned in this
 
 # <p align="center" style="margin-bottom:0px;">Day 1 HTML (Hyper Text Markup Language)</p>
 
-<img src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px" style="float:right">
+<p style="float:right"><img src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px"></p>
 
 - Rules of BootCamp , Rules of Certifications
 - Introduction of Teachers, Host, and Sponsers
