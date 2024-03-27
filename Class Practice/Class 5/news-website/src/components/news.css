@@ -1,0 +1,15 @@
+.heading {
+  font-size: 30px;
+}
+.img {
+  width: 300px;
+  border: 2px solid red;
+  border-radius: 20px;
+}
+.btn {
+  background-color: brown;
+  color: white;
+}
+.news {
+  margin-top: 50px;
+}

@@ -61,18 +61,31 @@
 	
 			 Day # 5
 - React Js -> why any Framework, website will not reload when you used framework. Types of frameworks(Reactjs , angularjs, viewjs)
-- Pre Requisite of ReactJs (Nodejs) , Nodejs is used for backend but it is also used for frontend also
-- Creating Project about news when user click on button he will be redirect to the news, to create project of react just simple create a folder and than go to path and write cmd there and hit enter after that cmd will be opened than simply just 
+- Pre Requisite of ReactJs (install Nodejs) , Nodejs is used for backend but it is also used for frontend fro reactjs
+
+- Creating Project(1. "npm create vite@latest" using cmd or vscode 2. "give your project name" 3. "select a framework like react in this case" 4. "select a language like javascript etc", project created)
+  about news when user click on button he will be redirect to the news, to create project of react just simple create a folder and than go to path and write cmd there and hit enter after that cmd will be opened than simply just 
   write the command " npm create vite@latest " and hit enter than press "Y" and than "enter your project name" after that select your scripting language like "react" and hit enter and than select "JavaScript" 
   , npm is actually package manager ,
-- Folder Structure (Index.html is the main file, public folder is the folder in which store the files that are publicaly available for public).
-- How to run React Project (to run project we have to install packages in order to install packages we have to go to main directory and go to path and again open cmd and run command "npm install" this will create packages of react and now you can run your project by
+
+- what is npm (this is package maneger, project runner) like when we create a project there in project we will use external packages like a package of database data storing , vite (tool of build starter code)
+
+- Folder Structure (package.json(hold information about what packages will be used in project while package is the set of predefine code that help us in our project), Readme.md file is for github, index.html is the html file, main.jsx is the file that show on frontend )
+
+- How to run React Project (to run project we have to install packages in order to install packages we have to go to main directory and go to path and again open cmd and run command "npm install" this will create all the packages that will be used in react and now you can run your project by
   "npm run div" this command is used to run your React Project)
-- JSX (JavaScript XML,)
-- Components (Class base component , function base component) , we have to create only once a component and than we can use it multiple times
-- Pops (Title(heading) , description(paragraph) , cover(img))
-- Hooks helps us to use react components in our projects (useState(is used for declare a variable and used for not reload the page), useEffect(the block of code run based on some condition while it will run once must, ))
+
+ 
+- JSX (JavaScript XML (mean you can run javascript in html and html in javascript, its basicaly the structure, in reactjs we used components not classes),)
+
+- Components (Class base component (old method), function base component), components in reactjs is the set of code that we create and we can reuse it again and again, ! most important
+
+- Pops ( is like data that we give to the different components, like Title(heading) , description(paragraph) , cover(img)) ! most Important
+
+- Hooks helps us to use react features in our projects (useState(is used for declare a variable and used for not reload the page), useEffect(the block of code run based on some condition while it will run once must, ))
+
 - onclick
+
 - React is the single page application mean page will not be reload
 
 

@@ -4,22 +4,22 @@
 
 ![My image](https://media.licdn.com/dms/image/D4D22AQE22o4rmiZTRQ/feedshare-shrink_800/0/1711120106077?e=1714003200&v=beta&t=KTKbOn-smGRMxejwq0xunuAtq7nlBhNikEhNm1gxwB8)
 
-## Lessons Learned
+## <p align="center">Lessons Learned</p>
 
 The topics I learned in this
 
-# Day 1 HTML (Hyper Text Markup Language)
+# <p align="center" style="margin-bottom:0px;">Day 1 HTML (Hyper Text Markup Language)</p>
 
-![HTML image](https://img.icons8.com/?size=256&id=20909&format=png)
+<img src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px" style="float:right">
 
 - Rules of BootCamp , Rules of Certifications
 - Introduction of Teachers, Host, and Sponsers
 - Introduction of HTML, CSS and JavaScript theory
 - Some Extensions of vs code (Auto Rename Tag, Live Server)
 
-# Day 2 CSS (Cascading Style Sheet)
+# <p align="center" style="margin-bottom:0px;"> Day 2 CSS (Cascading Style Sheet) </p>
 
-![HTML image](https://img.icons8.com/?size=256&id=g1UMGWyT4yZa&format=png)
+<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="130px" style="float:right">
 
 - Selectors (Element Selector, Id Selector, Class Selector)
 - Box Model (Border, Padding, Margin)
@@ -28,9 +28,9 @@ The topics I learned in this
 - Animations (@keyframes rotate)
 - Media Queries
 
-# Day 3 JavaScript
+# <p align="center" style="margin-bottom:0px;"> Day 3 JavaScript </p>
 
-![HTML image](https://img.icons8.com/?size=256&id=108784&format=png)
+<img src="https://img.icons8.com/?size=256&id=108784&format=png" width="100px" style="float:right">
 
 - JavaScript linking
 - Variables ( Var , let , const )
@@ -42,9 +42,9 @@ The topics I learned in this
 - String and Arrays
 - Try and Catch ( Error handling )
 
-# Day 4 JavaScript
+# <p align="center" style="margin-bottom:0px;"> Day 4 JavaScript </p>
 
-![HTML image](https://img.icons8.com/?size=256&id=108784&format=png)
+<img src="https://img.icons8.com/?size=256&id=108784&format=png" width="100px" style="float:right">
 
 - DOM manipulation ( document.getElementById ("id") , document.getElementByClassName ("class") , document.getElementByTagName("tag") , document.createElement("paragraph") , document.innerText="this is paragraph" , document.appendChild('paragraph') )
 - Input with JavaScript (Take input from the users)
@@ -55,6 +55,38 @@ The topics I learned in this
 - Arrow Function (New and Advance way of defining Functions)
 - Fetch API
 - Local Storage ( &nbsp; localStorage.setItem ( "LoginInfo" , "Zahid Khattak" ) , console.log( localStorage.getItem ( "LoginInfo" ) ), LocalStorage.removeItem ( "LoginInfo" ) )
+
+# <p align="center" style="margin-bottom:0px;"> Day 5 ReactJs </p>
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="100px" style="float:right">
+
+- Theory of JavaScript frameworks like ( React and TypeScript )
+- Pre Requisite of ReactJs ( install Node.js )
+- <p align="center" style="font-weight:bold; color:lightblue; font-size:20px; margin-bottom:0px;"> Creating Project</p>
+  <code style="display:flex; justify-content:center; margin-bottom:30px;">
+  <ol>
+  <li> npm create vite@latest</li>
+  <li> Provide Project Name ("khattak-resources")</li>
+  <li> Select Framework like <mark>React</mark></li>
+  <li> Select language like <mark>JavaScript</mark></li>
+  </ol>
+  </code>
+
+- <p align="center" style="font-weight:bold; color:lightblue; font-size:20px; margin-bottom:0px;">Run Reactjs Project</p>
+  <code style="display:flex; justify-content:center; margin-bottom:20px;">
+  <ol>
+  <li> "npm install" (This will install the project's necessary packages)</li>
+  <li> "npm run dev" (will allow project to run and offer a port for it)</li>
+
+</ol>
+</code>
+
+- JSX ( JavaScript XML )
+- Components ( Class Base Components ( Old Method ) , Function Base Components ), Reactjs components are collections of code that we write in order to reuse them repeatedly, In Reactjs, components are most important
+
+- POPS ( is like data that we give to the different components, like Title (Heading), Description (Paragraph), Cover(image) ), POPS are also important in Reactjs
+
+- Hooks ( Hooks helps us to use React features in our Project ( UseState , UseEffect ) )
 
 # Important
 
@@ -70,4 +102,9 @@ The topics I learned in this
 - [Lecuter # 3](https://www.youtube.com/watch?v=wBLNmWaPsto&t=4298s&ab_channel=TheProfessorUzair)
 - [Lecuter # 4](https://www.youtube.com/watch?v=L-Bn_Fvjqvs&t=15s&ab_channel=TheProfessorUzair)
 
-## **`ZAHID KHATTAK`**
+- [Lecuter # 5](https://www.youtube.com/watch?v=zBWWJIK36-g&t=12s&ab_channel=TheProfessorUzair
+)
+
+
+
+## <p align="center">  **`ZAHID KHATTAK`** </p>
