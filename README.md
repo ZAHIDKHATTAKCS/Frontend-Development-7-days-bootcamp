@@ -10,7 +10,10 @@ The topics I learned in this
 
 # <p align="center" style="margin-bottom:0px;">Day 1 HTML (Hyper Text Markup Language)</p>
 
-<p style="float:right"><img src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px"></p>
+<div style="float:right;">
+<img src="https://img.icons8.com/?size=256&id=20909&format=png" width="100px">
+
+</div>
 
 - Rules of BootCamp , Rules of Certifications
 - Introduction of Teachers, Host, and Sponsers
@@ -102,9 +105,6 @@ The topics I learned in this
 - [Lecuter # 3](https://www.youtube.com/watch?v=wBLNmWaPsto&t=4298s&ab_channel=TheProfessorUzair)
 - [Lecuter # 4](https://www.youtube.com/watch?v=L-Bn_Fvjqvs&t=15s&ab_channel=TheProfessorUzair)
 
-- [Lecuter # 5](https://www.youtube.com/watch?v=zBWWJIK36-g&t=12s&ab_channel=TheProfessorUzair
-)
+- [Lecuter # 5](https://www.youtube.com/watch?v=zBWWJIK36-g&t=12s&ab_channel=TheProfessorUzair)
 
-
-
-## <p align="center">  **`ZAHID KHATTAK`** </p>
+## <p align="center"> **`ZAHID KHATTAK`** </p>
