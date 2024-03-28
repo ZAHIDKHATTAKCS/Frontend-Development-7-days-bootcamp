@@ -50,7 +50,7 @@ The topics I learned in this
 <img src="https://img.icons8.com/?size=256&id=108784&format=png" width="100px" align="right">
 
 - DOM manipulation ( document.getElementById ("id") ,
- document.getElementByClassName ("class") , document.getElementByTagName("tag") , document.createElement("paragraph") , document.innerText="this is paragraph" , document.appendChild('paragraph') )
+  document.getElementByClassName ("class") , document.getElementByTagName("tag") , document.createElement("paragraph") , document.innerText="this is paragraph" , document.appendChild('paragraph') )
 
 - Input with JavaScript (Take input from the users)
 
@@ -72,14 +72,14 @@ The topics I learned in this
 
 - Pre Requisite of ReactJs ( install Node.js )
 
-# Creating Project
+**Creating Project**
 
 `1. npm create vite@latest` <br>
 `2. Provide Project Name ("khattak-resources")`<br>
 `3. Select Framework like React`<br>
 `4. Select language like JavaScript`
 
-# Run Reactjs Project
+**Run Reactjs Project**
 
 `"npm install" (This will install the project's necessary packages)`<br>
 `"npm run dev" (will allow project to run and offer a port for it)`
@@ -91,6 +91,49 @@ The topics I learned in this
 
 - Hooks ( Hooks helps us to use React features in our Project ( UseState , UseEffect ) )
 
+# <p align="center" style="margin-bottom:0px;"> Day 6 ReactJs </p>
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="100px" align="right">
+
+- Virtual DOM (Virtual DOM is like DOM in Javascript that make a tree structure of the website)
+
+- Input Events (Onchange Event, e.target.value(e holds many value in our case we use only for targeting the value of the user entering to input ))
+
+- ## **`Fetch API`**
+
+1. For fetch API we practice news API from
+   **[NewsApi.org](https://newsapi.org/)** create your account here and copy the API key the website will provide you when you just signup
+
+2. after copy the API go to the documantaiton tab of the same website
+3. Open the documantation and go to `get curated breaking` tab
+4. copy the link like `Get https://newsapi.org/v2/top-headlines?country=us&apiKey=API_KEY`
+5. and paste your API_KEY in the space of `API_KEY` in the upper link and removed the `Get`
+6. Your link will look like after editing `https://newsapi.org/v2/top-headlines?country=us&apiKey=381cf8b149194c9f96375c0eb200e009`
+
+- ## **Setup Tailwidcss with Reactjs**
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="100px" align="right">
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*Q0uAcG_S2J2gkcUaF5PyxA.png" width="160px" align="right">
+
+1. Go to **[Tailwindcss](https://tailwindcss.com/docs/guides/vite)**
+2. Run given commands in terminal
+
+3. `npm install -D tailwindcss postcss autoprefixer`
+4. `npx tailwindcss init -p`
+5. after that you have to replace the given code in your `tailwind.config.js` file
+6. `content: [
+  "./index.html",
+  "./src/**/*.{js,ts,jsx,tsx}",
+],`
+7. after that add the given tailwindcss style to your `index.css` file of reactjs project
+8. now can use tailwindcss classes in your react project
+9. now run your react project by `npm run dev`
+
+### `Enjoy Now!`
+---
+- Conditional Rendering ( like run components base on certain condition )
+- Routing ( Routing is like to go to another page without reloading )
 # Important
 
 - Teacher [Hussain Ahmad](https://www.linkedin.com/in/hussnain-ahmad/)

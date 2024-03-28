@@ -73,7 +73,7 @@
 - Folder Structure (package.json(hold information about what packages will be used in project while package is the set of predefine code that help us in our project), Readme.md file is for github, index.html is the html file, main.jsx is the file that show on frontend )
 
 - How to run React Project (to run project we have to install packages in order to install packages we have to go to main directory and go to path and again open cmd and run command "npm install" this will create all the packages that will be used in react and now you can run your project by
-  "npm run div" this command is used to run your React Project)
+  "npm run dev" this command is used to run your React Project)
 
  
 - JSX (JavaScript XML (mean you can run javascript in html and html in javascript, its basicaly the structure, in reactjs we used components not classes),)
@@ -89,9 +89,23 @@
 - React is the single page application mean page will not be reload
 
 
+			Day # 6 
+- Virtual DOM (Virtual DOM is like Dom in javascript, it a form of tree that show full structure of the site in inspact) and virtual DOM is the copy of original DOM , and it track that where is the changed happened and the channged components status will be changed the remains are remains same
 
+- Input Events (onChange event, e.target.value(e holds many data in our case we only used for targeting the value that a user entering to the input field), in this we learn about how to handling the inputs by usestate and onchange)
 
+- Fetch (we just fetch news api (NewsApi.org) and create an account and we will receive our api and than go to documentation of that website and "get curated breaking.." click on this and you will See "Get https://newsapi.org/v2/top-headlines?country=us&apiKey=API_KEY" so remove the Get and add your 
+  own api provided by the website after create account and paste it just after = like (https://newsapi.org/v2/top-headlines?country=us&apiKey=381cf8b149194c9f96375c0eb200e009))
 
+- Setup Tailwindcss (to integrate the tailwindcss with the react you have go to tailwindcss official website and than go for frameworks and select react than go to install tailwindcss mean part 2  1st part is skipped because 1 part is already done mean to creating react project we already create it , in
+   part 2 there are commands we have to copy and just paste it in terminal first command will install the tailwindcss packages in our project you can check it out just simlpy go to package.json file)
+
+- Conditional Rendering (is to run something/components based on certain condition)
+
+- Routing (rounting is like to go to another page without reloading mean redirecting to another route , but ReactJs have no built-in route so for that we have to From(React router DOM got to this and click on quick start and than go for "npm i react-router-dom"
+  and run this command in vscode so this will install React Router DOM packages in our project))
+
+- Router (router is like a single page in website)
 
 
 
