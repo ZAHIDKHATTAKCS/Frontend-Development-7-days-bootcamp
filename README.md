@@ -110,7 +110,7 @@ The topics I learned in this
 5. and paste your API_KEY in the space of `API_KEY` in the upper link and removed the `Get`
 6. Your link will look like after editing `https://newsapi.org/v2/top-headlines?country=us&apiKey=381cf8b149194c9f96375c0eb200e009`
 
-- ## **Setup Tailwidcss with Reactjs**
+- ## **`Setup Tailwidcss with Reactjs`**
 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="100px" align="right">
 
