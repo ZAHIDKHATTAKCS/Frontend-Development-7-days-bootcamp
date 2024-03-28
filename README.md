@@ -148,7 +148,8 @@ The topics I learned in this
 - [Lecuter # 2](https://www.youtube.com/watch?v=8kAFodFdBHs&t=373s&ab_channel=TheProfessorUzair)
 - [Lecuter # 3](https://www.youtube.com/watch?v=wBLNmWaPsto&t=4298s&ab_channel=TheProfessorUzair)
 - [Lecuter # 4](https://www.youtube.com/watch?v=L-Bn_Fvjqvs&t=15s&ab_channel=TheProfessorUzair)
-
 - [Lecuter # 5](https://www.youtube.com/watch?v=zBWWJIK36-g&t=12s&ab_channel=TheProfessorUzair)
+- [Lecuter # 6](https://www.youtube.com/watch?v=cUGMIrB2mh4&t=4175s&ab_channel=TheProfessorUzair)
+
 
 ## <p align="center"> **`ZAHID KHATTAK`** </p>
